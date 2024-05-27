@@ -5,7 +5,7 @@
 
 ## 📖 About Me
 
-My name is Santiago Bernal Quintana, I am based in Colombia and I work as a Software QA Engineer, I love testing and ensure projects/products to meet quality standards according to business needs. I have over 4 years of experience working on different projects mostly focused on SAAS B2B, CRM, Data & Analytics, Healhcare, Advertising, etc. 
+My name is Santiago Bernal Quintana, I am based in Colombia and I work as a Software QA Engineer, I love testing and ensure projects/products to meet quality standards according to business needs. I have over 4 years of experience working on different projects mostly focused on SAAS B2B, CRM, Data & Analytics, Healthcare, Advertising.
 
 
 ## 🛠️ Languages and Tools
@@ -21,9 +21,10 @@ My name is Santiago Bernal Quintana, I am based in Colombia and I work as a Soft
 - **Playwright**: Used for testing modern web applications.
 - **Cypress**: Employed in end-to-end test automation.
 - **Postman/Newman**: Used for API and web service testing.
-- **Node Libraries**: Jest, Axios, Dotenv, Faker, etc.
+- **Node Libraries**: Jest, Axios, Dotenv, Faker, ESlint, Husky.
 - **Cucumber**: Experience in gherkin and cucumber layer to make tests more readable.
-- **SQL**: Experience working on relational and no relational databases.
+- **SQL**: Experience working on relational and no relational databases (Snowflake, Microsoft SQL Server Management, CosmosDB, Google Cloud DB).
+-  **Reporters**: Mochawesome, Allure, built-in reports.
 
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=microsoft-edge)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
